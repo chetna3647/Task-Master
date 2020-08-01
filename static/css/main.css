@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+tr {
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    padding: 5px;
+}
+
+
+#content {
+    width: 70%;
+}
